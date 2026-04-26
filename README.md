@@ -121,6 +121,16 @@
 
 ## 📌 Featured Projects
 
+
+### 🌿ArogyaBot
+🌿 ArogyaBot — AI-Powered Rural Health Assistant
+
+🔗  
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/cab-booking-system)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ### 🚖 Cab Booking System  
 A Python + MySQL based booking system with fare calculation and user management.
 
@@ -178,7 +188,8 @@ A Python-based chatbot with automated responses using basic AI logic.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/dharmendra-star/dharmendra-star/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/dharmendra-developer/dharmendra-developer/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
