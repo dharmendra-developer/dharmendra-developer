@@ -17,8 +17,7 @@
 
 🎓 Diploma in **Computer Science Engineering**  
 🐍 Passionate about **Python Development**  
-🤖 Learning **Artificial Intelligence** 
-📱 Learning **Machine Learning & Backend Development**  
+🤖 Learning **Artificial Intelligence , Machine Learning & Backend Development**  
 🚀 Building **real-world scalable projects**  
 🌱 Exploring **new technologies & open-source**
 
