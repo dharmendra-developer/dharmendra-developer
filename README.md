@@ -88,7 +88,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dharmendra-developer&show_icons=true&theme=tokyonight&hide_border=true" />
+<img heigt="170" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=dharmendra-developer&theme=github&chart=bars" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-developer&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
