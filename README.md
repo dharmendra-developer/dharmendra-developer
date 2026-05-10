@@ -176,7 +176,7 @@ A Python-based chatbot with automated responses using basic AI logic.
 </a>
 <br>
 <br>
-<a herf="https://www.facebook.com/dharmendra.kumar.singh.125790/">
+<a herf="https://www.facebook.com/dharmendra.kumar.singh.125790">
 <img src="https://img.shields.io/badge/Facebook-E4405F?logo=facebook&logoColor=white">
 </a>
 </p>
