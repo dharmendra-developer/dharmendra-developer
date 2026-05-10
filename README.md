@@ -126,7 +126,7 @@
 🌿 ArogyaBot — AI-Powered Rural Health Assistant
 
 🔗  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/cab-booking-system)  
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/Arogya-Bot)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -135,7 +135,7 @@
 A Python + MySQL based booking system with fare calculation and user management.
 
 🔗  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/cab-booking-system)  
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/cab-booking-system)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
