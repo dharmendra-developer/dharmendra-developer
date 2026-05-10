@@ -145,7 +145,7 @@ A Python + MySQL based booking system with fare calculation and user management.
 A Python-based chatbot with automated responses using basic AI logic.
 
 🔗  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/ai-chatbot)  
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/ai-chatbot)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -159,19 +159,26 @@ A Python-based chatbot with automated responses using basic AI logic.
 <a href="https://github.com/dharmendra-developer">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 </a>
-
+<br>
+<br>
 <a href="https://www.linkedin.com/in/dharmendra-singh-198032374">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
 </a>
-
+<br>
+<br>
 <a href="mailto:Sd8750061@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
 </a>
-
+<br>
+<br>
 <a href="https://www.instagram.com/dharmendra_developer/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
 </a>
-
+<br>
+<br>
+<a herf="https://www.facebook.com/dharmendra.kumar.singh.125790/">
+<img src="https://img.shields.io/badge/Facebook-E4405F?logo=facebook&logoColor=white">
+</a>
 </p>
 
 
