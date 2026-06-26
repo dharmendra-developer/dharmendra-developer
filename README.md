@@ -50,6 +50,8 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=Python" width="48"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=TypeScript" width="48"/><br>TypeScript</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>java</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
@@ -60,14 +62,16 @@
 
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=Railway" width="48"/><br>Railway</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>php</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=Bootstrap" width="48"/><br>Bootstrap</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>vercel</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=Netlify" width="48"/><br>Netlify</td>
 </tr>
 
 </table>
