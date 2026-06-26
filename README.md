@@ -25,7 +25,11 @@
 
 💻 Passionate about **Full Stack Web Development** and **Python Programming**
 
-🚀 Building practical web applications using **React, Next.js, Node.js, Express.js, MongoDB, MySQL, and Firebase**
+🚀 Building modern, scalable, and user-friendly web applications using **React, Next.js, Node.js, Express.js, MongoDB, MySQL, and Firebase**
+
+💻 Passionate about writing clean, maintainable code and continuously learning new technologies
+
+🤝 Open to collaborating on open-source projects and innovative software solutions
 
 🐍 Developing backend applications with **Python (Flask)** and **REST APIs**
 
