@@ -21,21 +21,33 @@
 
 ## 👨‍💻 About Me
 
-🎓 Diploma in **Computer Science Engineering**  
-🐍 Passionate about **Python Development**  
-🤖 Learning **Artificial Intelligence , Machine Learning & Backend Development**  
-🚀 Building **real-world scalable projects**  
-🌱 Exploring **new technologies & open-source**
+🎓 Diploma Student in **Computer Science Engineering**
+
+💻 Passionate about **Full Stack Web Development** and **Python Programming**
+
+🚀 Building practical web applications using **React, Next.js, Node.js, Express.js, MongoDB, MySQL, and Firebase**
+
+🐍 Developing backend applications with **Python (Flask)** and **REST APIs**
+
+🤖 Currently learning **Artificial Intelligence, Machine Learning, TypeScript, and Docker**
+
+🌱 Exploring **Open Source**, **Cloud Technologies**, and modern software development practices
+
+📚 Continuously improving my skills in **Data Structures & Algorithms**
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 ## 🧠 Current Focus
 
-- 🔹 Python Backend Development (Flask / APIs)
-- 🔹 Artificial Intelligence & Machine Learning
-- 🔹 Database Development (MySQL)
-- 🔹 Open Source Contributions
+💻 **Backend Development:** Python (Flask), REST APIs  
+🤖 **AI & ML:** Machine Learning Fundamentals  
+🗄️ **Databases:** MySQL • MongoDB • Firebase Realtime Database • Supabase (PostgreSQL)  
+🌐 **Open Source:** Learning and Contributing to Projects  
+📈 **Problem Solving:** Data Structures & Algorithms  
+☁️ **Learning:** Docker • TypeScript • Next.js
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -67,7 +79,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>vercel</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=Python" width="48"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
 </tr>
 
 </table>
