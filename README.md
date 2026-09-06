@@ -136,6 +136,210 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/dharmendra-developer/Arogya-Bot">
+    <img src="https://img.shields.io/badge/🌿_ArogyaBot-AI%20Health%20Assistant-00C853?style=for-the-badge" alt="ArogyaBot">
+  </a>
+  <a href="https://github.com/dharmendra-developer/Cab-Booking-System">
+    <img src="https://img.shields.io/badge/🚖_Cab%20Booking-Python%20%7C%20MySQL-4285F4?style=for-the-badge" alt="Cab Booking">
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 ArogyaBot
+
+**AI-Powered Rural Health Assistant**
+
+An AI-focused project designed to provide accessible health assistance through technology.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
+![Chatbot](https://img.shields.io/badge/Chatbot-00C853?style=flat-square)
+
+<a href="https://github.com/dharmendra-developer/Arogya-Bot">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚖 Cab Booking System
+
+**Python + MySQL**
+
+A booking management system with user management, booking operations and database integration.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+<a href="https://github.com/dharmendra-developer/Cab-Booking-System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Expense Tracker
+
+**Expense Management Application**
+
+A project for tracking and managing personal expenses.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4479A1?style=flat-square)
+
+<a href="https://github.com/dharmendra-developer/Expense-Tracker">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏫 Smart Campus Management
+
+**Campus Management Platform**
+
+A smart campus concept combining student and academic management features.
+
+**Tech Stack**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+<a href="https://github.com/dharmendra-developer/Smart_Campus_Management_System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍🎓 Student Management System
+
+**Student Record Management**
+
+A system for managing student information and records.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square\&logo=json\&logoColor=white)
+
+<a href="https://github.com/dharmendra-developer/Student_Management_System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+
+**Library Automation**
+
+A project for managing books, records and library operations.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square\&logo=json\&logoColor=white)
+
+<a href="https://github.com/dharmendra-developer/Labrory_Management_System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Student Result System
+
+**Result Management**
+
+A student result management project for handling academic results.
+
+**Tech Stack**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+<a href="https://github.com/dharmendra-developer/Student_Result_System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Login System
+
+**Authentication Project**
+
+A project demonstrating user login and authentication concepts.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF6F00?style=flat-square)
+
+<a href="https://github.com/dharmendra-developer/Login_System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<td width="50%" valign="top">
+
+### 📈 Student Performance Prediction
+
+**Machine Learning**
+
+A machine-learning project focused on student performance prediction.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+
+<a href="https://github.com/dharmendra-developer/Student-Profermance-Prediction">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+</tr>
+
+</table>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🌱 Learning Roadmap
 
 ### 🐍 Python
@@ -376,212 +580,8 @@ Programming
 └── 🚀 Build → Deploy → Improve → Repeat
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/dharmendra-developer/Arogya-Bot">
-    <img src="https://img.shields.io/badge/🌿_ArogyaBot-AI%20Health%20Assistant-00C853?style=for-the-badge" alt="ArogyaBot">
-  </a>
-  <a href="https://github.com/dharmendra-developer/Cab-Booking-System">
-    <img src="https://img.shields.io/badge/🚖_Cab%20Booking-Python%20%7C%20MySQL-4285F4?style=for-the-badge" alt="Cab Booking">
-  </a>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌿 ArogyaBot
-
-**AI-Powered Rural Health Assistant**
-
-An AI-focused project designed to provide accessible health assistance through technology.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
-![Chatbot](https://img.shields.io/badge/Chatbot-00C853?style=flat-square)
-
-<a href="https://github.com/dharmendra-developer/Arogya-Bot">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚖 Cab Booking System
-
-**Python + MySQL**
-
-A booking management system with user management, booking operations and database integration.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-<a href="https://github.com/dharmendra-developer/Cab-Booking-System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Expense Tracker
-
-**Expense Management Application**
-
-A project for tracking and managing personal expenses.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Database](https://img.shields.io/badge/Database-4479A1?style=flat-square)
-
-<a href="https://github.com/dharmendra-developer/Expense-Tracker">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏫 Smart Campus Management
-
-**Campus Management Platform**
-
-A smart campus concept combining student and academic management features.
-
-**Tech Stack**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-<a href="https://github.com/dharmendra-developer/Smart_Campus_Management_System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍🎓 Student Management System
-
-**Student Record Management**
-
-A system for managing student information and records.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square\&logo=json\&logoColor=white)
-
-<a href="https://github.com/dharmendra-developer/Student_Management_System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Library Management System
-
-**Library Automation**
-
-A project for managing books, records and library operations.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square\&logo=json\&logoColor=white)
-
-<a href="https://github.com/dharmendra-developer/Labrory_Management_System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Student Result System
-
-**Result Management**
-
-A student result management project for handling academic results.
-
-**Tech Stack**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-<a href="https://github.com/dharmendra-developer/Student_Result_System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 Login System
-
-**Authentication Project**
-
-A project demonstrating user login and authentication concepts.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF6F00?style=flat-square)
-
-<a href="https://github.com/dharmendra-developer/Login_System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-
-<td width="50%" valign="top">
-
-### 📈 Student Performance Prediction
-
-**Machine Learning**
-
-A machine-learning project focused on student performance prediction.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-
-<a href="https://github.com/dharmendra-developer/Student-Profermance-Prediction">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-
-</tr>
-
-</table>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
 
 ## **🌐 Connect With Me**
 
