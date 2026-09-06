@@ -104,35 +104,76 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-developer&layout=compact&theme=tokyonight&hide_border=true" />
-<br>
-<img heigt="170" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=dharmendra-developer&theme=github&chart=bars" />
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-developer&layout=compact&theme=tokyonight&hide_border=true"
+ alt="Top Languages"
+/>
+
+  <br>
+
+<img
+ height="170"
+ src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=dharmendra-developer&theme=github&chart=bars"
+ alt="GitHub Stats"
+/>
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
+<img
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+width="100%"
+alt="Coding Animation"
+/>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra-developer&theme=tokyonight&hide_border=true" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra-developer&theme=tokyo-night&hide_border=true" width="95%" />
+<img
+ src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra-developer&theme=tokyonight&hide_border=true"
+ alt="GitHub Streak"
+/>
+
+  <br>
+
+<img
+ src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra-developer&theme=tokyo-night&hide_border=true"
+ width="95%"
+ alt="GitHub Activity Graph"
+/>
+
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
+<img
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+width="100%"
+alt="Coding Animation"
+/>
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center">GitHub Profile Trophy</h2>
+
+<img
+ width="140"
+ src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"
+ alt="GitHub Profile Trophy"
+/>
+
   <br>
-<img src="https://gh-trophy.cdnsoft.net/?username=dharmendra-developer&theme=light" />
+
+  <h3 align="center">GitHub Profile Trophy</h3>
+
+  <br>
+
+<img
+ src="https://gh-trophy.cdnsoft.net/?username=dharmendra-developer&theme=light"
+ alt="GitHub Profile Trophy"
+/>
 
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
