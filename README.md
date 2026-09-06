@@ -136,7 +136,34 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+🌱 Learning Roadmap
+Python
+  ├── Advanced Python
+  ├── Flask
+  ├── REST APIs
+  └── Backend Development
 
+Full Stack
+  ├── React
+  ├── Next.js
+  ├── Node.js
+  └── Express.js
+
+AI / ML
+  ├── Machine Learning
+  ├── AI APIs
+  ├── Prompt Engineering
+  └── AI Applications
+
+DevOps
+  ├── Git & GitHub
+  ├── Docker
+  └── Deployment
+  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</p>
 ## 📌 Featured Projects
 
 
@@ -225,3 +252,26 @@ A Python-based chatbot with automated responses using basic AI logic.
 ⭐ **If you like my work, give a star to my repositories!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+🧠 Mindset
+
+<div align="#">
+
+⚡ Execution Beats Intention — Always.
+
+Build • Learn • Improve • Repeat
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+⭐ Support My Work
+
+<p align="center">
+
+If you like my projects, consider giving ⭐ to my repositories and following me on GitHub!
+
+<br><br>
+
+Thanks for visiting my profile! 🚀
