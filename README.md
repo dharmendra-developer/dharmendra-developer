@@ -121,6 +121,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra-developer&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dharmendra-developer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=dharmendra-developer&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
